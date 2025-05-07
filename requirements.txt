@@ -8,3 +8,6 @@ jupyterlab==4.0.11
 notebook==7.0.7
 ipywidgets==8.1.2
 plotly==5.20.0
+
+**macOS note:** XGBoost wheels require libomp.
+Install once via Homebrew: `brew install libomp`.
