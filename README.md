@@ -18,19 +18,19 @@ This project analyzes hate crime data from NYC, applies machine learning models,
    ```bash
    pip install -r requirements.txt
 
-3. How to Use
-Open the Jupyter Notebook:
-Run the cells sequentially.
+3. How to Use:
+- Open the Jupyter Notebook
+- Run the cells sequentially.
 
-Models Used
-Logistic Regression
-Random Forest
-XGBoost
+Models Used:
+- Logistic Regression
+- Random Forest
+- XGBoost
 Model evaluation with precision, recall, and F1-score
 
 ## Results
-Best model: XGBoost
-Recommendations: Improve with more diverse data and better feature engineering.
+- Best model: XGBoost
+- Recommendations: Improve with more diverse data and better feature engineering.
 
 **macOS note:** XGBoost wheels require libomp.
 Install once via Homebrew: `brew install libomp`.
