@@ -31,3 +31,6 @@ Model evaluation with precision, recall, and F1-score
 Results
 Best model: XGBoost
 Recommendations: Improve with more diverse data and better feature engineering.
+
+**macOS note:** XGBoost wheels require libomp.
+Install once via Homebrew: `brew install libomp`.
