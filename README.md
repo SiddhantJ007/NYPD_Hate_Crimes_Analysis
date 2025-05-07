@@ -9,6 +9,16 @@ This project analyzes hate crime data from NYC, applies machine learning models,
 - `requirements.txt` → Python dependencies.
 - `README.md` → Project overview and instructions.
 
+## Prerequisites  
+**Tested Python version:** 3.9.13  
+(Other 3.9 patch releases should work, but 3.8 or 3.10+ may throw library errors.)
+
+## If you have pyenv installed
+- `pyenv install 3.9.13`        
+- `pyenv local 3.9.13`            
+- `python -m venv venv && source venv/bin/activate`
+- `pip install -r requirements.txt`
+
 ## Installation
 1. Clone the repo:
    ```bash
