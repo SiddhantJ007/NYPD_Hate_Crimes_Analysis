@@ -26,9 +26,8 @@ Models Used
 Logistic Regression
 Random Forest
 XGBoost
-Hyperparameter tuning with GridSearchCV
 Model evaluation with precision, recall, and F1-score
 
 Results
-Best model: Random Forest with 88% precision and 85% recall.
-Recommendations: Improve with more data and better feature engineering.
+Best model: XGBoost
+Recommendations: Improve with more diverse data and better feature engineering.
