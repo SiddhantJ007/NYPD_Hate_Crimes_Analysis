@@ -28,7 +28,7 @@ Random Forest
 XGBoost
 Model evaluation with precision, recall, and F1-score
 
-Results
+## Results
 Best model: XGBoost
 Recommendations: Improve with more diverse data and better feature engineering.
 
